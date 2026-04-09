@@ -7,7 +7,7 @@ function App() {
     <>
       <header>
         <img className="profile" src="https://avatars.githubusercontent.com/u/11763362?v=4&" alt="Foto do desenvolvedor" />
-        <h1>Seu Nome Completo</h1>
+        <h1>Victor Matheus Barbosa Tavares</h1>
         <p>
           Professor e Desenvolvedor de jogos apaixonado por programação. <br />
           Experiente com Unreal e uso muito a Unity, mas minha paixão é a Godot.
