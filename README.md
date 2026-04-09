@@ -1,16 +1,13 @@
-# React + Vite
+# Profile Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About
+This page was developed with the goal of presenting my most recent projects to the public and to my students in the game development course. Since it's a website, it's also used to present the web development course.
 
-Currently, two official plugins are available:
+## Development
+This project was developed using the tools presented in the course.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+For the games, Unity and Godot were used.
 
-## React Compiler
+For the website, in addition to HTML and CSS, React was used for the front-end development, and Vercel was used as the server.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Link to Vercel: https://vercel.com/
