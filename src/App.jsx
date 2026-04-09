@@ -53,6 +53,18 @@ function App() {
           </div>
         </div>
       </div>
+
+      <footer className="footer">
+        <div className="footer-content">
+          <h2>Contato</h2>
+          <p>Email: victor.matheus.xd@gmail.com</p>
+          <p>Telefone: (82) 99989-8166</p>
+          <p>
+            Portfólio completo:
+            <a href="https://matheusum.itch.io/">Acessar</a>
+          </p>
+        </div>
+      </footer>
     </>
   )
 }

@@ -63,3 +63,38 @@ h1 {
   margin: 10px;
   color: #ffffff;
 }
+
+.footer {
+  background-color: #0d0d0d;
+  padding: 0 20px 30px 20px;
+  margin-top: 0;
+  border-top: 1px solid #333;
+}
+
+.footer-content {
+  max-width: 900px;
+  margin: auto;
+  text-align: center;
+}
+
+.footer h2 {
+  margin-bottom: 15px;
+  font-size: 20px;
+}
+
+.footer p {
+  margin: 5px 0;
+  color: #cccccc;
+}
+
+.footer a {
+  color: #ffffff;
+  text-decoration: none;
+  border-bottom: 1px solid #ffffff;
+  transition: 0.3s;
+}
+
+.footer a:hover {
+  color: #00ffcc;
+  border-bottom: 1px solid #00ffcc;
+}
